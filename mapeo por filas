@@ -1,0 +1,75 @@
+digraph G{
+label="Matriz";
+node [shape=record, color=blue]
+tabla [label=<
+<table>
+<tr>
+	<td bgcolor="blue">0</td>
+	<td bgcolor="blue">1</td>
+	<td bgcolor="blue">2</td>
+	<td bgcolor="blue">3</td>
+	<td bgcolor="blue">4</td>
+	<td bgcolor="blue">5</td>
+	<td bgcolor="blue">6</td>
+</tr>
+<tr>
+	<td bgcolor="blue">7</td>
+	<td bgcolor="blue">8</td>
+	<td bgcolor="blue">9</td>
+	<td bgcolor="blue">10</td>
+	<td bgcolor="blue">11</td>
+	<td bgcolor="blue">12</td>
+	<td bgcolor="blue">13</td>
+</tr>
+<tr>
+	<td bgcolor="blue">14</td>
+	<td bgcolor="blue">15</td>
+	<td bgcolor="blue">16</td>
+	<td bgcolor="blue">17</td>
+	<td bgcolor="blue">18</td>
+	<td bgcolor="blue">19</td>
+	<td bgcolor="blue">20</td>
+</tr>
+<tr>
+	<td bgcolor="blue">21</td>
+	<td bgcolor="blue">22</td>
+	<td bgcolor="blue">23</td>
+	<td bgcolor="blue">24</td>
+	<td bgcolor="blue">25</td>
+	<td bgcolor="yellow">26</td>
+	<td bgcolor="blue">27</td>
+</tr>
+</table> >,]; 
+tabla2 [label=<
+<table>
+<tr>
+	<td bgcolor="blue">(0)0</td>
+	<td bgcolor="blue">(1)1</td>
+	<td bgcolor="blue">(2)2</td>
+	<td bgcolor="blue">(3)3</td>
+	<td bgcolor="blue">(4)4</td>
+	<td bgcolor="blue">(5)5</td>
+	<td bgcolor="blue">(6)6</td>
+	<td bgcolor="blue">(7)7</td>
+	<td bgcolor="blue">(8)8</td>
+	<td bgcolor="blue">(9)9</td>
+	<td bgcolor="blue">(10)10</td>
+	<td bgcolor="blue">(11)11</td>
+	<td bgcolor="blue">(12)12</td>
+	<td bgcolor="blue">(13)13</td>
+	<td bgcolor="blue">(14)14</td>
+	<td bgcolor="blue">(15)15</td>
+	<td bgcolor="blue">(16)16</td>
+	<td bgcolor="blue">(17)17</td>
+	<td bgcolor="blue">(18)18</td>
+	<td bgcolor="blue">(19)19</td>
+	<td bgcolor="blue">(20)20</td>
+	<td bgcolor="blue">(21)21</td>
+	<td bgcolor="blue">(22)22</td>
+	<td bgcolor="blue">(23)23</td>
+	<td bgcolor="blue">(24)24</td>
+	<td bgcolor="blue">(25)25</td>
+	<td bgcolor="yellow">(26)26</td>
+	<td bgcolor="blue">(27)27</td>
+</tr>
+</table> >,]; }
